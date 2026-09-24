@@ -1,0 +1,8 @@
+# 本仓库只承载 Release 产物，不入库任何构建输出
+*.tar.gz
+*.zip
+dist/
+out/
+build/
+node_modules/
+.DS_Store
